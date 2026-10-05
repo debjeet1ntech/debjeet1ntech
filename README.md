@@ -57,7 +57,7 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 # 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
 ![](https://github-readme-stats.shion.dev/api?username=debjeet1ntech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=codew1thsumit&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=debjeet1ntech&theme=dark&hide_border=false)
 
 <br>
 
