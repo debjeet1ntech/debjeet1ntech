@@ -64,6 +64,7 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=debjeet1ntech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
+<hr>
 
 # ☕ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙮 𝙒𝙤𝙧𝙠
 **If you find my projects useful or want to support my learning journey:**<br><br>
