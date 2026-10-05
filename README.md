@@ -61,7 +61,7 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codew1thsumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=debjeet1ntech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
